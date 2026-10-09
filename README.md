@@ -32,8 +32,8 @@ portfolio/
 ├── screenshots/
 └── README.md
 Screenshots
-Desktop
-Mobile
+Desktop,
+Mobile and
 Code
 Projects Shown on the Website
 C++ Calculator
